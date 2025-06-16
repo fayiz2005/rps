@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState } from "react";
-import { pickComputerMove, WinCalc, iconFor } from "./components";
+
 
 export function Input() {
   const [result, setResult] = useState("");
