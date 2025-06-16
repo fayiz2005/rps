@@ -8,7 +8,7 @@ export function Input() {
   return (
     <>
   <button onClick={() => setResult(WinCalc("rock"))}>
-    <span style={{ fontSize: "60px" }}>🗿</span>
+    <span style={{ fontSize: "60px" }}>⛰️</span>
   </button>
   <button onClick={() => setResult(WinCalc("paper"))}>
     <span style={{ fontSize: "60px" }}>📄</span>
