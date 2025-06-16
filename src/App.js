@@ -1,5 +1,6 @@
 import './App.css';
 import React, { useState } from "react";
+import {WinCalc} from "./components.js"
 
 
 export function Input() {

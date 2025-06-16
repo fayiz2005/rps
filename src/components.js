@@ -25,7 +25,7 @@ function resetScores() {
 function iconFor(move) {
   switch (move) {
     case "rock":
-      return "🗿"; 
+      return "⛰️"; 
     case "paper":
       return "📄"; 
     case "scissors":
